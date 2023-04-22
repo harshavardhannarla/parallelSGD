@@ -1,0 +1,8 @@
+-file "$(realpath ${scripts_dir})/numpy.zip"
+# ./runner_script.sh  /opt/hadoop-3.2.4/share/hadoop/tools/lib/hadoop-streaming-3.2.4.jar ./input.txt /input/ /output/ ./ ./ 
+
+
+#!./dsenv/bin/python3
+# -*- coding: utf-8 -*-
+
+#!/usr/bin/python3
